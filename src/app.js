@@ -13,7 +13,7 @@ var Neb = Nebulas.Neb; // Neb
 var neb = new Neb(new Nebulas.HttpRequest("https://testnet.nebulas.io"));
 var Account = Nebulas.Account;
 var api = neb.api;
-const dappAddress = "n1oNgmipR9dR5rvfqXhaZuEoBZgiX1XeWJT"  //my contract hash
+const dappAddress = "n1srytXK8sWZXWzqg9TCZLh8hBYuhZhXyRk"  //my contract hash
 
 
 // App 默认的有两个属性
